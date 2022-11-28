@@ -33,25 +33,48 @@ Project Organization
     │
     ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
     ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
-    │
-    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
 
---------
+# Proyecto Final Data Science
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+En este proyecto se ha decidido analizar un dataset relacionado con el fútbol, según el tipo de datos con los que se cuenten, obtener conclusiones útiles para predecir eventos o resultados durante un partido de fútbol.
+
+Equipo de Trabajo.
+El equipo de trabajo para desarrollar este proyecto está conformado por:
+
+
+- Darcy Guaiquire.
+- David Bussi.
+- Francisco Azuara.
+- Jeremías Santa María.
+- Marco Ríos.
+
+### Fuente del Dataset.
+El [dataset](https://www.kaggle.com/datasets/prathamsharma123/comprehensive-football-dataset "dataset") a utilizar fue obtenido de Kaggle, especificamente del siguiente enlace:
+
+
+En este dat set hay información de de las 5 "grandes ligas" europeas (Inglaterra, España, Italia, Alemania y Francia) entre las temporadas 2011/2012 y 2016/2017.
+
+
+### Objetivo.
+
+El objetivo que nos hemos planteado es el de determinar que ocasiones o eventos durante un partido terminarán en gol. Todo esto teniendo en cuenta datos como el tipo de jugada, método de asistencia, ubicación desde donde se realizó el tiro, ubicación donde termina el tiro, etc.
+
+### Procesos de Data Acquisition y Data Wrangling
+
+En este proceso nos encargamos de realizar  la exploracion y limpieza de los datos donde los dejamos preparados para poder analizarlos de una manera mas eficiente  [ Procesos de Data Acquisition y Data Wrangling](https://github.com/fjazuara/Goal-Prediction/blob/David/notebooks/1_Data_Acquisition_y_Data_Wrangling.ipynb " Procesos de Data Acquisition y Data Wrangling") 
+
+
+### Analisis Grafico
+
+Realizamos un analisis de nuestra data a traves de graficos, para detectar datos relevantes que nos puedan ayudar a entender nuestros datos de una manera mas óptima   [Analisis Grafico](https://github.com/fjazuara/Goal-Prediction/blob/David/notebooks/2_Graficos.ipynb "Analisis Grafico")
+    
