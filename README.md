@@ -59,7 +59,7 @@ El equipo de trabajo para desarrollar este proyecto está conformado por:
 - Marco Ríos.
 
 ### Fuente del Dataset.
-El [dataset](http://https://www.kaggle.com/datasets/prathamsharma123/comprehensive-football-dataset "dataset") a utilizar fue obtenido de Kaggle, especificamente del siguiente enlace:
+El [dataset](https://www.kaggle.com/datasets/prathamsharma123/comprehensive-football-dataset "dataset") a utilizar fue obtenido de Kaggle, especificamente del siguiente enlace:
 
 
 En este dat set hay información de de las 5 "grandes ligas" europeas (Inglaterra, España, Italia, Alemania y Francia) entre las temporadas 2011/2012 y 2016/2017.
@@ -71,10 +71,10 @@ El objetivo que nos hemos planteado es el de determinar que ocasiones o eventos 
 
 ### Procesos de Data Acquisition y Data Wrangling
 
-En este proceso nos encargamos de realizar  la exploracion y limpieza de los datos donde los dejamos preparados para poder analizarlos de una manera mas eficiente  [ Procesos de Data Acquisition y Data Wrangling](http://https://github.com/fjazuara/Goal-Prediction/blob/David/notebooks/1_Data_Acquisition_y_Data_Wrangling.ipynb " Procesos de Data Acquisition y Data Wrangling") 
+En este proceso nos encargamos de realizar  la exploracion y limpieza de los datos donde los dejamos preparados para poder analizarlos de una manera mas eficiente  [ Procesos de Data Acquisition y Data Wrangling](https://github.com/fjazuara/Goal-Prediction/blob/David/notebooks/1_Data_Acquisition_y_Data_Wrangling.ipynb " Procesos de Data Acquisition y Data Wrangling") 
 
 
 ### Analisis Grafico
 
-Realizamos un analisis de nuestra data a traves de graficos, para detectar datos relevantes que nos puedan ayudar a entender nuestros datos de una manera mas óptima   [Analisis Grafico](http://https://github.com/fjazuara/Goal-Prediction/blob/David/notebooks/2_Graficos.ipynb "Analisis Grafico")
+Realizamos un analisis de nuestra data a traves de graficos, para detectar datos relevantes que nos puedan ayudar a entender nuestros datos de una manera mas óptima   [Analisis Grafico](https://github.com/fjazuara/Goal-Prediction/blob/David/notebooks/2_Graficos.ipynb "Analisis Grafico")
     
